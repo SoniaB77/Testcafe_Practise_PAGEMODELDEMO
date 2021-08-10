@@ -1,0 +1,19 @@
+{
+  "name": "pagemodeldemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "1.1.0",
+    "testcafe": "1.15.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}

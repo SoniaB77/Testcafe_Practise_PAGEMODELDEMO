@@ -1,0 +1,21 @@
+[
+    {
+        "firstname":"Me",
+        "lastname":"Three",
+        "birthday":"5",
+        "birthmonth":"November",
+        "birthyear":"1983",
+        "email":"me",
+        "password":"567890"
+    },
+    {
+        "firstname":"Wanda",
+        "lastname":"Vision",
+        "birthday":"6",
+        "birthmonth":"December",
+        "birthyear":"1989",
+        "email":"marvel",
+        "password":"599990"
+
+    }
+]
